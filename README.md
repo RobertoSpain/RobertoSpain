@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Roberto. 👋
 
-<!--
-**RobertoSpain/RobertoSpain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Estudiante de 2 DAW en IES FRANCISCO AYALA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Ubicación:** Granada
+
+🔗 **Conecta conmigo:**
+
+
+- [GitHub] https://github.com/RobertoSpain
+
+---
+
+## 💻 Habilidades Técnicas
+
+- **Frontend**: HTML5, CSS3, JavaScript, Angular
+- **Backend**: PHP, Java
+- **Diseño y UI**: Diseño Responsivo con CSS y HTML
+
+
+
+## 🌱 Actualmente Aprendiendo
+- **Frameworks**: React, Node.js
+- **Mejorando en**: JavaScript, PHP
+
+---
+
+## 📫 Contáctame
+Puedes escribirme a través de mi correo: robertoz1777@gmail.com
